@@ -21,5 +21,5 @@
 * [怎么都是奥数，没有奥语呢？](chapter18.md)
 * [诗一首《自择》](chapter19.md)
 * [趁还有15分钟接LULU，我抓紧时间上来瞧瞧](chapter20.md)
-* 附录
+* [附录](appendix.md)
 
